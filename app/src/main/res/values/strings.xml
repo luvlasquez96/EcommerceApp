@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Ecommerce App MVVM</string>
+    <string name="get_into">Ingresar</string>
+    <string name="login">Login</string>
+    <string name="no_account">No tienes cuenta?</string>
+    <string name="registration">Registrate</string>
+    <string name="email">Correo electrónico</string>
+    <string name="password">Contraseña</string>
+    <string name="foodapp">Ecommerce App</string>
+    <string name="register">Registrarse</string>
+    <string name="confirm">Confirmar</string>
+    <string name="userName">Nombres</string>
+    <string name="userLastName">Apellidos</string>
+    <string name="userPhoneNumber">Telefono</string>
+    <string name="passwordConfirmation">Confirmar Contraseña</string>
+    <string name="add_information">Ingrese esta informacion</string>
+
+</resources>
