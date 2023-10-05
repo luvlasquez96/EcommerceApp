@@ -96,7 +96,7 @@ fun HomeContent(navController: NavHostController, viewModel: LoginViewModel = hi
                 hideText = true,
                 onValueChangeEmail = { viewModel.onEmailInput(it) },
                 onValueChangePassword = { viewModel.onPasswordInput(it) },
-                onLogin = { viewModel.validState()},
+                onLogin = { viewModel.login() },
                 onRegister = { navController.navigate(route = AuthScreen.Register.route) })
         }
     }
